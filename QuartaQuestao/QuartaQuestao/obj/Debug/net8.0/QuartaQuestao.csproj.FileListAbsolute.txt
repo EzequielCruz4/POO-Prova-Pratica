@@ -1,0 +1,14 @@
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\bin\Debug\net8.0\QuartaQuestao.exe
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\bin\Debug\net8.0\QuartaQuestao.deps.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\bin\Debug\net8.0\QuartaQuestao.runtimeconfig.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\bin\Debug\net8.0\QuartaQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\bin\Debug\net8.0\QuartaQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.AssemblyInfoInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.AssemblyInfo.cs
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.csproj.CoreCompileInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\refint\QuartaQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\QuartaQuestao.genruntimeconfig.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\QuartaQuestao\QuartaQuestao\QuartaQuestao\obj\Debug\net8.0\ref\QuartaQuestao.dll
