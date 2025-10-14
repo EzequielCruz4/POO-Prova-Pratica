@@ -1,0 +1,14 @@
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\bin\Debug\net8.0\TerceiraQuestao.exe
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\bin\Debug\net8.0\TerceiraQuestao.deps.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\bin\Debug\net8.0\TerceiraQuestao.runtimeconfig.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\bin\Debug\net8.0\TerceiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\bin\Debug\net8.0\TerceiraQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.AssemblyInfoInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.AssemblyInfo.cs
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.csproj.CoreCompileInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\refint\TerceiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\TerceiraQuestao.genruntimeconfig.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\TerceiraQuestao\TerceiraQuestao\TerceiraQuestao\obj\Debug\net8.0\ref\TerceiraQuestao.dll
