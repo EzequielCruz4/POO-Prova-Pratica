@@ -1,0 +1,28 @@
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.exe
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.deps.json
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.runtimeconfig.json
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.dll
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.pdb
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.AssemblyInfoInputs.cache
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.AssemblyInfo.cs
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.csproj.CoreCompileInputs.cache
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.dll
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\refint\PrimeiraQuestao.dll
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.pdb
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.genruntimeconfig.cache
+C:\Users\LAB'S\source\repos\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\ref\PrimeiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.exe
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.deps.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.runtimeconfig.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\bin\Debug\net8.0\PrimeiraQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.AssemblyInfoInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.AssemblyInfo.cs
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.csproj.CoreCompileInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\refint\PrimeiraQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\PrimeiraQuestao.genruntimeconfig.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\PrimeiraQuestao\PrimeiraQuestao\obj\Debug\net8.0\ref\PrimeiraQuestao.dll
