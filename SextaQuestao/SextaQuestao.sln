@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SextaQuestao", "SextaQuestao\SextaQuestao.csproj", "{BEBAEE18-0F53-40BC-8CE6-D7AA71B4CDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBAEE18-0F53-40BC-8CE6-D7AA71B4CDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBAEE18-0F53-40BC-8CE6-D7AA71B4CDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBAEE18-0F53-40BC-8CE6-D7AA71B4CDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBAEE18-0F53-40BC-8CE6-D7AA71B4CDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54B7F41-9671-47BB-A736-3E598DD3F3F3}
+	EndGlobalSection
+EndGlobal

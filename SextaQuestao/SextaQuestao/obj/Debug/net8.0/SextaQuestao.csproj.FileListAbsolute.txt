@@ -1,0 +1,14 @@
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\bin\Debug\net8.0\SextaQuestao.exe
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\bin\Debug\net8.0\SextaQuestao.deps.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\bin\Debug\net8.0\SextaQuestao.runtimeconfig.json
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\bin\Debug\net8.0\SextaQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\bin\Debug\net8.0\SextaQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.AssemblyInfoInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.AssemblyInfo.cs
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.csproj.CoreCompileInputs.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\refint\SextaQuestao.dll
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.pdb
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\SextaQuestao.genruntimeconfig.cache
+C:\Users\LAB'S\Documents\Visual Studio 2022\Ezequiel Prova prática do marcao\SextaQuestao\SextaQuestao\SextaQuestao\obj\Debug\net8.0\ref\SextaQuestao.dll
